@@ -46,7 +46,7 @@ const people = [
     name: 'James',
     role: 'McMagic',
     imageUrl: james,
-    bio: `Guarding him is similar to watching a magician. You are often trying to figure out his next move. Even when you do guess it, you're often left saying, "There's no way that'll work, it just doesn't make sense" but somehow, it always does.`,
+    bio: `Guarding him is similar to watching a magician. You are often trying to figure out his next move. Even when you do guess it, you're often left saying, "There's no way that'll work, it just doesn't make sense" but somehow, he always makes it.`,
     twitterUrl: '#',
     linkedinUrl: '#',
   },
