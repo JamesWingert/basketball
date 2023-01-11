@@ -27,7 +27,7 @@ export default function statistics() {
               className='hidden space-x-10 md:flex md:space-x-8'
             >
               <a
-                href='#'
+                href='/players'
                 className='text-2xl font-medium text-gray-500 hover:text-gray-900'
               >
                 Players{' '}
@@ -76,7 +76,7 @@ export default function statistics() {
               <div className='space-y-6 py-6 px-5'>
                 <div className='grid grid-cols-2 gap-y-4 gap-x-8'>
                   <a
-                    href='#'
+                    href='/players'
                     className='text-base font-medium text-gray-900 hover:text-gray-700'
                   >
                     Players
