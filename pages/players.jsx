@@ -2,12 +2,12 @@ import { Fragment } from 'react';
 import { Popover, Transition } from '@headlessui/react';
 import logo1 from '/public/logo.png';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import james from '/public/james.jpg';
-import tk from '/public/tk.png';
-import yahrus from '/public/yahrus.png';
-import jimmy from '/public/jimmy.jpg';
+import james from '/public/James.jpg';
+import tk from '/public/TK.png';
+import yahraus from '/public/Yahrus.png';
+import jimmy from '/public/Jimmy.jpg';
 import ryan from '/public/rr.jpg';
-import zack from '/public/zack.png';
+import zack from '/public/Zack.png';
 import Link from 'next/link';
 const people = [
   {
@@ -27,9 +27,9 @@ const people = [
     linkedinUrl: '#',
   },
   {
-    name: 'Yahrus',
+    name: 'Yahraus',
     role: 'The Enforcer',
-    imageUrl: yahrus,
+    imageUrl: yahraus,
     bio: "He'll throw a bow whether you are 10 years old or 80. The paint is his. Great player to put in when your strategy is to injure the other teams lead scorer.",
     twitterUrl: '#',
     linkedinUrl: '#',
