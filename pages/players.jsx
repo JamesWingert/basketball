@@ -2,12 +2,12 @@ import { Fragment } from 'react';
 import { Popover, Transition } from '@headlessui/react';
 import logo1 from '/public/logo.png';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
-import james from '../public/james.jpg';
-import tk from '../public/tk.png';
-import yahrus from '../public/yahrus.png';
-import jimmy from '../public/jimmy.jpg';
-import ryan from '../public/rr.jpg';
-import zack from '../public/zack.png';
+import james from '/public/james.jpg';
+import tk from '/public/tk.png';
+import yahrus from '/public/yahrus.png';
+import jimmy from '/public/jimmy.jpg';
+import ryan from '/public/rr.jpg';
+import zack from '/public/zack.png';
 import Link from 'next/link';
 const people = [
   {
